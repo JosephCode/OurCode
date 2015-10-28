@@ -1,0 +1,4 @@
+F:\Program\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+F:\Program\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+F:\Program\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
+F:\Program\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb
